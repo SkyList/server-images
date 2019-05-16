@@ -1,0 +1,24 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "title": "supermercados",
+            "image": "./shopping-cart.svg"
+        },
+        {
+            "id": 2,
+            "title": "farmarcia",
+            "image": "./pills.svg"
+        },
+        {
+            "id": 3,
+            "title": "ferramentas",
+            "image": "./tools.svg.svg"
+        },
+        {
+            "id": 4,
+            "title": "pet",
+            "image": "./pawprint.svg"
+        }
+    ]
+}
